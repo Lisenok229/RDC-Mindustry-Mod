@@ -1,0 +1,12 @@
+{
+"cost": 1,
+  "color": "ffffff",
+
+"research": {
+"parent": "copper",
+
+"requirtments": [
+"copper/50"
+  ]
+  }
+}
